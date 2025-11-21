@@ -41,8 +41,8 @@ public class PassGenerator extends Application {
             try {
                 // pega o valor e atualiza o texto
                 int length = Integer.parseInt(lengthPassField.getText());
-                // pasando o valor para gerar a senha
                 // estava passando TextField, que é um objeto do javafx 
+                // passando o valor correto para gerar a senha
                 String password = generatePass(length);
                 passLabel.setText(password);
             } catch (NumberFormatException nfException) {
