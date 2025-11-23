@@ -1,8 +1,3 @@
-Claro, Rafa! Aqui vai um **README.md super completo, profissional e bem bonitão**, digno de um projeto real no GitHub.
-Você pode copiar e colar direto no seu repositório — ele já vem pronto, organizado e bem explicado. 💛
-
----
-
 # 📘 **Password Generator – Java + JavaFX**
 
 Um gerador de senhas simples, bonito e totalmente funcional feito em **Java** utilizando **JavaFX**.
@@ -38,8 +33,6 @@ A interface foi construída com foco em simplicidade e organização.
 * Botão estilizado
 * Campo com a senha gerada em destaque
 * Fundo levemente colorido
-
-*(Você pode substituir este texto por prints do programa quando tiver!)*
 
 ---
 
@@ -179,8 +172,6 @@ mvn javafx:run
 
 ## 🎨 **Possíveis Melhorias Futuras**
 
-Se quiser evoluir o projeto (e eu posso te ajudar com cada uma), aqui estão ideias legais:
-
 ### 🔧 Funcionalidades:
 
 * Copiar senha com um botão “Copy to Clipboard”
@@ -218,12 +209,3 @@ Sinta-se à vontade para melhorar, estudar ou incluir em seu portfólio.
 
 Projeto desenvolvido por **Rafa** 💛
 Com foco em aprendizado, lógica de programação e desenvolvimento Java.
-
-Se quiser, posso criar também:
-
-* uma versão em inglês
-* um badge de estilo
-* um GIF demonstrando a interface
-* instruções para Vercel, Maven, GitHub Pages, ou JPackage
-
-É só pedir, Rafa! 🚀
